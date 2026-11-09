@@ -417,7 +417,8 @@ print(zadanie2)
 
 
 ```{r 35, eval=FALSE}
-# miejsce na kod
+zadanie3 <- source("./zadanie3.R")
+print(zadanie3)
 ```
 
 
@@ -425,7 +426,8 @@ print(zadanie2)
 
 
 ```{r 36, eval=FALSE}
-# miejsce na kod
+zadanie4 <- source("./zadanie4.R")
+print(zadanie4)
 ```
 
 
@@ -460,7 +462,8 @@ dane %>%
 
 
 ```{r 39, eval=FALSE}
-# miejsce na kod
+zadanie5 <- source("./zadanie5.R")
+print(zadanie5)
 ```
 
 
